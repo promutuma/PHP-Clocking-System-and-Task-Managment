@@ -1,0 +1,7 @@
+.env
+
+# Ignore debugbar directory
+/assdfsf
+
+# Ignore logs directory
+/files/apk
